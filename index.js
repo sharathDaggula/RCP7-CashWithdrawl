@@ -66,22 +66,6 @@ export default CashWithdrawal
 
 // DenominationItem/index.js
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Write your code here
 import './index.css'
 
